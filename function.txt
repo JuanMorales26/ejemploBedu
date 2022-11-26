@@ -1,1 +1,1 @@
-"Esta es la Branch/Rama testing: Almacenamos el codigo listo para hacer pruebas"
+"Esta es la Branch/Rama production: Almacenamos el codigo que debe hacer lo mismo que la rama main"
