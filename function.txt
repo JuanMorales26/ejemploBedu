@@ -1,1 +1,1 @@
-"Esta es la Branch/Rama Develop: Almacenamos el codigo de desarollo"
+"Esta es la Branch/Rama testing: Almacenamos el codigo listo para hacer pruebas"
